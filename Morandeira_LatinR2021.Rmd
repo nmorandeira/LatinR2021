@@ -1,0 +1,98 @@
+---
+title: "Un cuento digital desde R"
+subtitle: "*Cómo crear un relato situado con Leaflet*"
+author: "Natalia Morandeira"
+institute: "Latin R 2021"
+date: "10-12 de noviembre de 2021"
+output:
+  xaringan::moon_reader:
+    css: ["latinR.css"]
+    self_contained: true
+    lib_dir: libs
+    nature:
+      ratio: '16:9'
+---
+class: chapter-slide
+
+# Un cuento digital y situado
+
+---
+
+# Disparador
+
+- Convocatoria de un concurso de **cuento digital**, con un plazo definido.
+- Aprovechando el impulso de R, ¿se puede hacer un cuento digital programando en R?
+- Algunos apuntes en papel, un borrador del relato.
+- ¿Mi historia tiene un componente espacial?
+
+
+---
+# Identidad y universo personal
+- Nuestra identidad es cambiante y múltiple.
+
+- Como escritora, en mi **universo personal** (_Mauricio Kartun_) están los paisajes, el campo, los humedales.
+
+- La **bajante del río Paraná**: un año de pandemia estudiando incendios en el Delta. Y al visitar en 2021 encuentro otra cara de la bajante: los _detectores de metales_ en la costa de ríos y lagunas.
+
+- La creatividad como producto de la **asociación de ideas** que no estaban relacionadas: un detector de metales, una foto que alguna vez vi.
+
+img detector metales ByN
+
+
+---
+# La restricción como potencia de la escritura creativa
+
+Oulipo
+
+---
+# ¿Qué restricciones?
+- El cuento tiene un componente espacial explícito: situado en un mapa.
+- Texto dividido en fragmentos breves.
+- Un máximo de caracteres totales y tiempo de lectura.
+- Navegabilidad y accesibilidad.
+- Mis propias limitaciones para programar en R (y para narrar).
+
+---
+
+# Y estas elecciones...
+
+- La mención al espacio geográfico no estará en la narrativa sino sugerida en el mapa.
+
+- Los fragmentos se podrán leer en un orden aleatorio.
+
+- El principal lenguaje será la narrativa.
+
+- Un único punto de vista y narrador.
+
+- Lo digital debe ser simple.
+
+---
+class: chapter-slide
+
+# El cuento
+
+---
+class: chapter-slide
+
+# El código de R
+
+---
+class: chapter-slide
+
+# Qué aprendí
+
+---
+# Qué aprendí de R
+
+---
+
+# Qué aprendí de narrativa
+
+6. El fallo
+
+---
+
+9. Conclusiones
+
+
+
